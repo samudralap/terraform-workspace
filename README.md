@@ -1,6 +1,6 @@
 # terraform-workspace
 
-Understanding how workspaces work in terraform, and how to isolate `dev`, `test`, `stage` and `prod` environment with it.
+Understand how workspaces work in terraform, and how to isolate `dev`, `test`, `stage` and `prod` environment with it.
 
 ## Create
 
